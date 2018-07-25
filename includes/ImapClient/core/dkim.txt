@@ -1,0 +1,3 @@
+-----BEGIN RSA PRIVATE KEY-----
+keyhere from: http://dkimcore.org/tools/
+-----END RSA PRIVATE KEY-----
